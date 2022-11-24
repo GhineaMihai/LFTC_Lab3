@@ -11,8 +11,12 @@ BONUS : Consider the input data corresponding to the lexical tokens of your prog
 ## When we apply our rules this is written as:
 
 {q0},0->{q0}
+
 {q0},0->(q1)
+
 (q1),1->(q1)
+
 (q1),1->[q2]
+
 
 ![Project](results.png)
